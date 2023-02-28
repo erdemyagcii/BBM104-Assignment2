@@ -1,0 +1,2 @@
+# BBM102Assignment2
+non graphical Java version of the classic Monopoly  game with the given rule. Main focus point of this experiment is to get you familiar with polymorphism and  inheritance.
